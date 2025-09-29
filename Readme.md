@@ -12,3 +12,8 @@ https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 ## Output
 The trained model predicts one of the seven emotion categories for any input speech sample
+
+## How to run 
+1. Download and place the dataset using the link provided above.
+1. Open and run Speech_Emotion_Recognition.ipynb to load the data, train the model, and save the trained model file.
+2. Run deploy.py to launch the web application and serve the HTML interface.
